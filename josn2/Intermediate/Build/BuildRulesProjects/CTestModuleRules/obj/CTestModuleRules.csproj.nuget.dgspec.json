@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj": {}
+    "C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -988,14 +988,14 @@
         }
       }
     },
-    "C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj": {
+    "C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj",
         "projectName": "CTestModuleRules",
-        "projectPath": "C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj",
+        "projectPath": "C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\CTestModuleRules.csproj",
         "packagesPath": "C:\\Users\\s213812\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Intermediate\\Build\\BuildRulesProjects\\CTestModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s213812\\AppData\\Roaming\\NuGet\\NuGet.Config",

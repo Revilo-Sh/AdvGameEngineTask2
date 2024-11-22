@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CTestModuleRules
-build_property.ProjectDir = C:\Users\s213812\Documents\GitHub\JsonUnreal\josn\josn2\Intermediate\Build\BuildRulesProjects\CTestModuleRules\
+build_property.ProjectDir = C:\Users\s213812\Documents\GitHub\AdvGameEngineTask2\josn2\Intermediate\Build\BuildRulesProjects\CTestModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -119,14 +119,14 @@ UCSaveGame::~UCSaveGame() {}
 // End Class UCSaveGame
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_JsonUnreal_josn_josn2_Source_CTest_Public_CSaveGame_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_AdvGameEngineTask2_josn2_Source_CTest_Public_CSaveGame_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCSaveGame, UCSaveGame::StaticClass, TEXT("UCSaveGame"), &Z_Registration_Info_UClass_UCSaveGame, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCSaveGame), 2646523488U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_JsonUnreal_josn_josn2_Source_CTest_Public_CSaveGame_h_2117255211(TEXT("/Script/CTest"),
-	Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_JsonUnreal_josn_josn2_Source_CTest_Public_CSaveGame_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_JsonUnreal_josn_josn2_Source_CTest_Public_CSaveGame_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_AdvGameEngineTask2_josn2_Source_CTest_Public_CSaveGame_h_2117255211(TEXT("/Script/CTest"),
+	Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_AdvGameEngineTask2_josn2_Source_CTest_Public_CSaveGame_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_s213812_Documents_GitHub_AdvGameEngineTask2_josn2_Source_CTest_Public_CSaveGame_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Source\\CTest\\CTest.Build.cs",
-		"C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Source\\CTest.Target.cs",
-		"C:\\Users\\s213812\\Documents\\GitHub\\JsonUnreal\\josn\\josn2\\Source\\CTestEditor.Target.cs"
+		"C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Source\\CTest\\CTest.Build.cs",
+		"C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Source\\CTest.Target.cs",
+		"C:\\Users\\s213812\\Documents\\GitHub\\AdvGameEngineTask2\\josn2\\Source\\CTestEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.3"
 }
