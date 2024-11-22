@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s213812\\documents\\github\\jsonunreal\\josn\\josn2\\intermediate\\build\\win64\\unrealeditor\\inc\\ctest\\uht\\cgamesavecomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s213812\\documents\\github\\jsonunreal\\josn\\josn2\\intermediate\\build\\win64\\x64\\ctesteditor\\development\\unrealed\\sharedpch.unrealed.project.novalfmtstr.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\s213812\\documents\\github\\jsonunreal\\josn\\josn2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ctest\\definitions.ctest.h",
+            "c:\\users\\s213812\\documents\\github\\jsonunreal\\josn\\josn2\\source\\ctest\\public\\cgamesavecomponent.h",
+            "c:\\users\\s213812\\documents\\github\\jsonunreal\\josn\\josn2\\intermediate\\build\\win64\\unrealeditor\\inc\\ctest\\uht\\cgamesavecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
